@@ -1,0 +1,5 @@
+
+This is a generic Sudoku Solver.
+ ### Generic Properties
+ * The solution is not using recursive functions. Instead, it is based on the general stack approach.
+ * It is using threading for multiple computations
